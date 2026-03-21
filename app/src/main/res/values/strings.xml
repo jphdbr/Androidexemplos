@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">desafiopam</string>
+    <string name="hint_nome">Nome</string>
+    <string name="hint_cpf">Digite seu CPF</string>
+    <string name="hint_telefone">Telefone</string>
+    <string name="hint_data_nascimento">Data de Nascimento</string>
+    <string name="btn_confirmar">Confirmar Cadastro</string>
+</resources>
